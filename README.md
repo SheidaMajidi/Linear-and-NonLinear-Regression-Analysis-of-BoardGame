@@ -35,3 +35,7 @@ A simulation-based approach is taken here to estimate the mean squared error (MS
 ---
 
 **Overall**, this R code conducts comprehensive regression analyses examining the relationship between board game ratings and several potential predictors. It uses both linear regression and more advanced methods like polynomial regression and splines regression. The code also incorporates simulation-based techniques and visualization to assess model performance and diagnose potential issues.
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
